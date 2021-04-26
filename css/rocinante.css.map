@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "rocinante.css",
-	"sourceRoot": "/Users/rp/Desktop/melquiaden",
+	"sourceRoot": "/Users/rp/Desktop/computer/Work/melquiaden",
 	"sources": [
 		"themes/rocinante/assets/css/rocinante.scss",
 		"themes/rocinante/assets/css/includes.scss"
